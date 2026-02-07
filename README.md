@@ -1,40 +1,18 @@
-💫 About Me:
-I’m an 8th semester Cyber Security undergraduate at Air University Multan, with hands-on experience in penetration testing, vulnerability assessment, and security consulting across web applications, internal networks, and systems.
+# 💫 About Me:
+I am an 8th semester Cyber Security undergraduate at Air University Multan, with hands-on experience in penetration testing, vulnerability assessment, and security consulting across web applications, internal networks, and systems.<br><br>I work with an attacker’s mindset — identifying real-world security weaknesses and translating them into clear, actionable remediation guidance for both technical and non-technical stakeholders.<br><br>My experience includes conducting web application penetration tests, internal network assessments, and vulnerability scans using tools such as Burp Suite, Nmap, Metasploit, Nessus, OpenVAS, and Qualys, alongside manual testing aligned with OWASP Top 10 and industry best practices. I’m comfortable working across Linux, Windows, and Active Directory-based environments, with a growing focus on internal network attacks and security hardening.<br><br>Alongside offensive security, I bring strong exposure to defensive security and blue team tooling, including SIEM monitoring (Splunk, Wazuh, QRadar), incident analysis, and system hardening — allowing me to deliver practical, risk-aware security recommendations rather than isolated findings.<br><br>I’ve contributed to real-world projects and freelance engagements involving:<br><br>Web and network penetration testing<br><br>Wireless security assessments<br><br>Vulnerability management and remediation planning<br><br>Windows security hardening and monitoring<br><br>PCAP analysis and attack investigation<br><br>I’m passionate about continuous learning, improving testing methodologies, and building security solutions that actually work in production environments. My goal is to grow as a penetration tester / offensive security consultant, delivering meaningful impact for organisations and clients.<br><br>📌 Interests: Penetration Testing | Red Teaming | Web & Network Security | Active Directory Attacks | Security Consulting<br>📌 Currently: Final-year Cyber Security student, actively building hands-on offensive security experience
 
-I work with an attacker’s mindset — identifying real-world security weaknesses and translating them into clear, actionable remediation guidance for both technical and non-technical stakeholders.
 
-My experience includes conducting web application penetration tests, internal network assessments, and vulnerability scans using tools such as Burp Suite, Nmap, Metasploit, Nessus, OpenVAS, and Qualys, alongside manual testing aligned with OWASP Top 10 and industry best practices. I’m comfortable working across Linux, Windows, and Active Directory-based environments, with a growing focus on internal network attacks and security hardening.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CDM2LM4as/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zohaaibbb?igsh=MTBmYmo2ZjUxemhudg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zohaaibbb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zohaib.infosec@gmail.com) 
 
-Alongside offensive security, I bring strong exposure to defensive security and blue team tooling, including SIEM monitoring (Splunk, Wazuh, QRadar), incident analysis, and system hardening — allowing me to deliver practical, risk-aware security recommendations rather than isolated findings.
-
-I’ve contributed to real-world projects and freelance engagements involving:
-
-Web and network penetration testing
-
-Wireless security assessments
-
-Vulnerability management and remediation planning
-
-Windows security hardening and monitoring
-
-PCAP analysis and attack investigation
-
-I’m passionate about continuous learning, improving testing methodologies, and building security solutions that actually work in production environments. My goal is to grow as a penetration tester / offensive security consultant, delivering meaningful impact for organisations and clients.
-
-📌 Interests: Penetration Testing | Red Teaming | Web & Network Security | Active Directory Attacks | Security Consulting
-📌 Currently: Final-year Cyber Security student, actively building hands-on offensive security experience
-
-🌐 Socials:
-Facebook Instagram LinkedIn email
-
-💻 Tech Stack:
-Python Windows Terminal C++ Bash Script SQLite MySQL Canva scikit-learn TensorFlow Pandas NumPy Matplotlib C C# CSS3 PowerShell Flask Nginx MicrosoftSQLServer GitHub Git Splunk SonarQube
-
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= zohaaibb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user= zohaaibb&theme=dark&hide_border=false)
-
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username= zohaaibb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user= zohaaibb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username= zohaaibb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://visitcount.itsvg.in/api?id= zohaaibb&icon=0&color=0)
+---
+[![](https://visitcount.itsvg.in/api?id= zohaaibb&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
