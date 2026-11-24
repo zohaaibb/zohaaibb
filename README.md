@@ -1,10 +1,11 @@
-Muhammad Zohaib Zafar
-Cybersecurity Graduate | Offensive Security | AI & Agent Security | Security Research
-
+<h1 align="center">Muhammad Zohaib Zafar</h1><h3 align="center">Cybersecurity Graduate | Offensive Security | AI & Agent Security | Security Research</h3><p align="center">
+  <a href="mailto:zohaib.infosec@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-17324D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/zohaaibb"><img src="https://img.shields.io/badge/GitHub-zohaaibb-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+</p>👋 About Me
 I am a BS Cyber Security graduate from Air University, Multan Campus, Pakistan. My work combines hands-on security assessment, Python-based development, and research-oriented security projects.
 
 I am interested in offensive security, application and systems security, security of autonomous AI agents, and emerging areas such as IoT and operational technology (OT) security. I am open to developing expertise across these areas through research and practical engineering.
-Selected work
+🧪 Featured Projects
 AART — Agentic Attack and Red-Teaming Framework
 A sandboxed framework for evaluating security weaknesses in autonomous LLM agents, including tool misuse, prompt injection, and privilege-boundary concerns. The repository documents its scenario design, evaluation metrics, and local experimentation workflow.
 
@@ -21,7 +22,7 @@ RedTeamPlaybook
 Security learning and practical reference material. Original exercises, evidence, and authored tooling should be distinguished from general documentation.
 
 Relevant areas: reconnaissance · penetration-testing workflow · security documentation
-Technical skills & tools
+🛠️ Technical Skills & Tools
 Programming & scripting
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" />
@@ -64,10 +65,13 @@ Programming & scripting
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code" />
-</p>Research interests: Offensive security · Agentic AI security · Software and systems security · IoT security · OT/ICS security · Network security. These interests do not imply completed research in every area.
-What I aim to demonstrate here
+</p>🔬 Research Interests
+Offensive security · Agentic AI security · Software and systems security · IoT security · OT/ICS security · Network security.
+
+These are areas I am interested in exploring; they do not imply completed research in every area.
+📋 My Approach to Technical Work
 Each featured repository will explain the problem addressed, the approach taken, what I implemented, how it was evaluated, and the limitations. Where possible, I will include reproducible setup steps, test data or safe synthetic examples, and concise technical reports.
-Contact
+📫 Contact
 - Email: zohaib.infosec@gmail.com
 - GitHub: github.com/zohaaibb
 Projects and experiments reflect their documented scope. Research interests indicate directions I want to pursue, not claims of established expertise in every area.
