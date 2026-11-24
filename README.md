@@ -1,6 +1,6 @@
 <h1 align="center">Muhammad Zohaib Zafar</h1><h3 align="center">Cybersecurity Graduate | Offensive Security | AI & Agent Security | Security Research</h3><p align="center">
   <a href="mailto:zohaib.infosec@gmail.com"><img src="https://img.shields.io/badge/Email-zohaib.infosec%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-  <a href="https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN_HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile — update URL" /></a>
+  <a href="https://www.linkedin.com/in/zohaaibbb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile — update URL" /></a>
 </p> About Me
 I am a BS Cyber Security graduate from Air University, Multan Campus, Pakistan. My work combines hands-on security assessment, Python-based development, and research-oriented security projects.
 
