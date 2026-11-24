@@ -1,60 +1,73 @@
-# 💫 About Me:
-A Cyber Security graduate From Air University with hands-on experience in penetration testing, vulnerability assessment, and security consulting across web applications, networks, and systems.<br><br>I identify security weaknesses with an attacker’s mindset and provide actionable, risk-aware remediation guidance to technical and non-technical stakeholders.<br><br>My experience spans web and network assessments, vulnerability management, Windows hardening, and defensive security practices, enabling practical security improvements in real-world environments.<br><br>I am passionate about continuous learning and building impactful security solutions while growing as a penetration tester and offensive security professional.
+Muhammad Zohaib Zafar
+Cybersecurity Graduate | Offensive Security | AI & Agent Security | Security Research
 
+I am a BS Cyber Security graduate from Air University, Multan Campus, Pakistan. My work combines hands-on security assessment, Python-based development, and research-oriented security projects.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CDM2LM4as/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zohaaibbb?igsh=MTBmYmo2ZjUxemhudg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zohaaibbb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zohaib.infosec@gmail.com) 
+I am interested in offensive security, application and systems security, security of autonomous AI agents, and emerging areas such as IoT and operational technology (OT) security. I am open to developing expertise across these areas through research and practical engineering.
+Selected work
+AART — Agentic Attack and Red-Teaming Framework
+A sandboxed framework for evaluating security weaknesses in autonomous LLM agents, including tool misuse, prompt injection, and privilege-boundary concerns. The repository documents its scenario design, evaluation metrics, and local experimentation workflow.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+Skills illustrated: adversarial test design · Python · agent/tool threat modeling · experimental evaluation · technical documentation
+Experimental results and novelty statements should be interpreted within the documented sandbox and tested configurations, not as universal claims about LLM security.
 
-# 🛠️ Tool Stack:
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-1F1F1F?style=for-the-badge&logo=metasploit&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
-![AWVS](https://img.shields.io/badge/Acunetix%20AWVS-7C2AE8?style=for-the-badge&logo=acunetix&logoColor=white)
-![FFUF](https://img.shields.io/badge/FFUF-000000?style=for-the-badge&logo=linux&logoColor=white)
-![WPScan](https://img.shields.io/badge/WPScan-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Sublist3r](https://img.shields.io/badge/Sublist3r-2E3440?style=for-the-badge&logo=python&logoColor=white)
-![CEWL](https://img.shields.io/badge/CEWL-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=white)
+TruthLens — Multimodal Misinformation Screening
+A completed academic project exploring text, URL, and image-based misinformation screening using machine-learning models and supporting credibility and verification checks.
 
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logo=greenbone&logoColor=white)
-![Qualys](https://img.shields.io/badge/Qualys-E60000?style=for-the-badge&logo=qualys&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-8E0000?style=for-the-badge&logo=apache&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+Skills illustrated: problem formulation · Python · transformer integration · multimodal pipeline design · model evaluation · full-stack prototyping
 
-![CrackMapExec](https://img.shields.io/badge/CrackMapExec-2B2B2B?style=for-the-badge&logo=python&logoColor=white)
-![Impacket](https://img.shields.io/badge/Impacket-005571?style=for-the-badge&logo=python&logoColor=white)
-![Responder](https://img.shields.io/badge/Responder-8B0000?style=for-the-badge&logo=linux&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge&logo=neo4j&logoColor=white)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-003366?style=for-the-badge&logo=windows&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+Public source-code and documentation link to be added after repository review.
+RedTeamPlaybook
+Security learning and practical reference material. Original exercises, evidence, and authored tooling should be distinguished from general documentation.
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0078D7?style=for-the-badge&logo=wifi&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-3A3A3A?style=for-the-badge&logo=linux&logoColor=white)
-![John%20the%20Ripper](https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge&logo=linux&logoColor=white)
-
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=security&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![LogRhythm](https://img.shields.io/badge/LogRhythm-1E1E1E?style=for-the-badge&logo=security&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-F6A800?style=for-the-badge&logo=snort&logoColor=black)
-![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=linux&logoColor=white)
-
-![Python%20Scripting](https://img.shields.io/badge/Python%20Scripting-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash%20Scripting](https://img.shields.io/badge/Bash%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= zohaaibb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user= zohaaibb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= zohaaibb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id= zohaaibb&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Relevant areas: reconnaissance · penetration-testing workflow · security documentation
+Technical skills & tools
+Programming & scripting
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" title="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="45" height="45" alt="PowerShell" title="PowerShell" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" />
+</p>Offensive security & vulnerability assessment
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/Nmap-4376A1?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-2E75B6?style=for-the-badge" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Nessus-0096D6?style=for-the-badge" alt="Nessus" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-2C6CA2?style=for-the-badge" alt="Aircrack-ng" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-444444?style=for-the-badge" alt="John the Ripper" />
+</p>Monitoring, digital forensics & reverse engineering
+<p>
+  <img src="https://img.shields.io/badge/Wazuh-3B82F6?style=for-the-badge" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Splunk-222222?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Snort-C62E2E?style=for-the-badge" alt="Snort" />
+  <img src="https://img.shields.io/badge/Suricata-F36F21?style=for-the-badge" alt="Suricata" />
+  <img src="https://img.shields.io/badge/Ghidra-C1282D?style=for-the-badge" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/dnSpy-605B99?style=for-the-badge" alt="dnSpy" />
+  <img src="https://img.shields.io/badge/Autopsy-34495E?style=for-the-badge" alt="Autopsy" />
+  <img src="https://img.shields.io/badge/ALEAPP-315B75?style=for-the-badge" alt="ALEAPP" />
+</p>AI / machine learning & application development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter" title="Flutter" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
+  <img src="https://img.shields.io/badge/Ollama-202020?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+</p>Operating systems & development environment
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45" height="45" alt="Ubuntu" title="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45" height="45" alt="Windows" title="Windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code" />
+</p>Research interests: Offensive security · Agentic AI security · Software and systems security · IoT security · OT/ICS security · Network security. These interests do not imply completed research in every area.
+What I aim to demonstrate here
+Each featured repository will explain the problem addressed, the approach taken, what I implemented, how it was evaluated, and the limitations. Where possible, I will include reproducible setup steps, test data or safe synthetic examples, and concise technical reports.
+Contact
+- Email: zohaib.infosec@gmail.com
+- GitHub: github.com/zohaaibb
+Projects and experiments reflect their documented scope. Research interests indicate directions I want to pursue, not claims of established expertise in every area.
